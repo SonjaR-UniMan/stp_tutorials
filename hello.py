@@ -12,4 +12,3 @@ def print_hi(name):
 
 string = "Sonja"
 print_hi(string)
-
